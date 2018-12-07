@@ -5,4 +5,4 @@ except ImportError:
 import pytesseract
 
 
-print(pytesseract.image_to_string(Image.open('/Users/David/Downloads/test.png'),lang='deu2'))
+print(pytesseract.image_to_string(Image.open('/Users/David/Downloads/test10.jpg'),lang='deu'))
